@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaruwatbt1997
+- 👋 Hi, I’m @peach
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning Computer Science in CS50
 - 💞️ I’m looking to collaborate on ...
